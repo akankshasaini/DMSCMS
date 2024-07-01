@@ -1,5 +1,5 @@
-# capstone-project-9900m13atechtitans
-capstone-project-9900m13atechtitans created by GitHub Classroom
+# mulit-blochain-project-9900m13atechtitans
+multi-blockchain-project-9900m13atechtitans created by GitHub Classroom
 
 
 Installation and Prerequisites
